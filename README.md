@@ -1,7 +1,6 @@
-# Pomodoro Clock :tomato:
+# Data Science :octopus:
 
-Being productive is hard. We make it easy. :eggplant:
-
+This is an ongoing effort by me to create better visualizations in Plotly. I take on these projects as a precursor to machine learning. :computer: Well atleast that's what I tell myself!
 
 ## Getting Started
 
