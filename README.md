@@ -11,8 +11,8 @@ This is an ongoing effort by me to create better visualizations in Plotly. I tak
 Open http://localhost:3000 in the browser.
 
 ## Built With
-* [Python3.8](http://python.org/) - The greatest
-* [Anaconda](https://www.anaconda.com/) - React is incredible for frontend
+* [Python3.8](http://python.org/) - Install this first
+* [Anaconda](https://www.anaconda.com/) - Or just go with anaconda
 * [Pandas](https://pandas.pydata.org/) - Basic data mgt utility
 * [Numpy](https://numpy.org/) - Mathematical funcs for Python
 * [Matplotlib](https://matplotlib.org/) - Basic data viz. in python
